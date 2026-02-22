@@ -1,4 +1,4 @@
-# Hurricane & Weather Monitor
+# Weather Alerts
 
 A real-time weather alert system that helps users stay informed about severe weather conditions across the United States.
 
